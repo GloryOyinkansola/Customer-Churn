@@ -1,8 +1,14 @@
 ## Customer Churn Analysis
 
+### Problem statement
+There has been an increase in the number of customers leaving a Bank. The goal of the Bank is to greatly reduce the rate of churn and retain as many customers as possible. In fact, research has shown that obtaining new customers is five times more expensive than retaining current ones.
+This problem would be solved by identifying which group of customers are leaving or likely to leave, why they are leaving, and how to reduce the rate of customer churn.
+Reducing the rate of churn would increase the worth of the bank.
+
 ### Introduction
 Churn prediction is the process of identifying which consumers are most likely to stop using a service.
-Customer churn is a critical concern for businesses across industries, but it is particularly important in the banking industry. As organizations expand, the loss of existing customers can have a disastrous impact on future performance. In fact, research has shown that obtaining new customers is five times more expensive than retaining current ones. Therefore, predicting customer churn is a crucial task for many firms, including banks.
+Customer churn is a critical concern for businesses across industries, but it is particularly important in the banking industry. As organizations expand, the loss of existing customers can have a disastrous impact on future performance. Therefore, predicting customer churn is a crucial task for many firms, including banks
+
 
 ### Data Source
 The data used in this project was sourced from Kaggle. The dataset includes information on customers' demographics, age, credit score, estimated salary, balance, etc.
